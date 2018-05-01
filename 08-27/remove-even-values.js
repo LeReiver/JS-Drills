@@ -1,4 +1,3 @@
-/**
  * Given any object, "removeEvenValues" 
  * removes any properties whose values are even numbers.
  * Do this in place and return the original object, 
